@@ -32,7 +32,7 @@ apis:
 common:
   - type: Website
     url: https://www.peacecorps.gov/
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.peacecorps.gov/privacy/
 maintainers:
   - FN: Kin Lane
