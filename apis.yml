@@ -30,6 +30,10 @@ apis:
       - type: Documentation
         url: https://www.peacecorps.gov/
 common:
+  - type: GitHubOrganization
+    url: https://github.com/peacecorps
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/peace-corps
   - type: Website
     url: https://www.peacecorps.gov/
   - type: PrivacyPolicy
