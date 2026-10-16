@@ -1,0 +1,11 @@
+{
+  "repo": "peace-corps",
+  "feeds": [
+    {
+      "source": "https://www.peacecorps.gov/connect/blog/",
+      "error": "HTTPError"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
